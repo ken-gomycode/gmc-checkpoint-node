@@ -7,5 +7,7 @@
     "server": "node src/server.js"
   },
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "generate-password": "^1.7.1"
+  }
 }
